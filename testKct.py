@@ -35,4 +35,4 @@ def scrap():
     #print(staffs)
     return names,designations
 
-#staffs.to_csv('staffs.csv')
+staffs.to_csv('staffs.csv')
